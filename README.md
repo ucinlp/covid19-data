@@ -4,7 +4,7 @@ To facilitate research in automatic COVID19 misinformation detection, we introdu
 <b>COVID-Lies</b> dataset for misconception detectionon Twitter. We have collected a dataset of 86 common misconceptions about the disease along with 6761 related tweets, identified and annotated by researchers from the UCI School of Medicine. Given a tweet, our data identifies whether any of the
 known misconceptions are expressed by the tweet, and if so, whether the tweet propagates the misconception (<i>agree/pos</i>), is informative by contradicting it (<i>disagree/neg</i>), or is neither misinformative nor informative (<i>no stance/na</i>). 
 
-For a full description of the paper, and associated models, please see our paper at the EMNLP 2020 Workshop on NLP for COVID-19:
+For a full description of the paper, and associated models, please see our paper at the EMNLP 2020 Workshop on NLP for COVID-19 (Best Paper Award):
 
 - **Detecting COVID-19 Misinformation on Social Media** <br/>
   _Tamanna Hossain, Robert L. Logan IV, Arjuna Ugarte, Yoshitomo Matsubara, Sean Young, Sameer Singh_ <br/>
